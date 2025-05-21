@@ -10,6 +10,8 @@ The dataset we worked on was collected from [this website](https://www.kaggle.co
 
 
 ## Dependencies
+(List of Python libraries used):
+
 - Pnadas
 - re
 - bokeh
