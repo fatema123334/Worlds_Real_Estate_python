@@ -9,7 +9,7 @@ The dataset we worked on was collected from [this website](https://www.kaggle.co
 ## Analysis
 ### Top 5 Countries with the Most Listed Real Estate
 Our first analysis focuses on the most frequently occurring country in the website dataset. We found that Turkey appears the most, accounting for 17.2% of the total listings. This suggests that Turkey has the highest number of real estate opportunities. Following Turkey, Hungary and Russia rank next, with 15.9% and 13.2%, respectively.
-![top]
+![top](assets/figures/lowest.png)
 ### Correlation Analysis
 From our analysis, we found that the strongest correlation among factors is total area, with a correlation coefficient of 0.6. Next in significance are apartment rooms, followed by apartment bathrooms. However, we observed that building total floors does not correlate with price.
 
