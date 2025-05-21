@@ -13,7 +13,7 @@ Our first analysis focuses on the most frequently occurring country in the websi
 
 ### Correlation Analysis
 From our analysis, we found that the strongest correlation among factors is total area, with a correlation coefficient of 0.6. Next in significance are apartment rooms, followed by apartment bathrooms. However, we observed that building total floors does not correlate with price.
-![cor](assets/figures/corr_(2).png)
+![cor](assets/figures/corr(2).png)
 
 
 ### Average Prices Among Countries
